@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root" android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="16dp" android:background="#18211F">
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="BRAIN PAL · TODAY" android:textColor="#B9F1D5" android:textStyle="bold" android:textSize="12sp" />
+    <TextView android:id="@+id/widget_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="0" android:textColor="#FFFFFF" android:textStyle="bold" android:textSize="32sp" />
+    <TextView android:id="@+id/widget_subtitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Reels / Shorts today" android:textColor="#D7E2DC" android:textSize="12sp" />
+</LinearLayout>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Brain Pal</string>
+    <string name="accessibility_service_description">Brain Pal observes visible interface changes in supported video apps to estimate when Reels or Shorts may be shown. Detection is best-effort and may be inaccurate. It does not read messages or send data to a server.</string>
+</resources>
